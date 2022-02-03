@@ -2,7 +2,7 @@
 
 This is an accumulation of resources I keep and work on myself to dig deeper into the Data Science world.
 
-**You will find 2 folders:**
+**You will find 3 folders:**
 1. Kaggle Competition
 2. Data Science Notes 
     - Mostly from the Python Data Science Handbook
@@ -16,4 +16,5 @@ This is an accumulation of resources I keep and work on myself to dig deeper int
 ## Contact
 
 Jackie First
+
 https://www.linkedin.com/in/jackie-first-03481a118/
